@@ -1,12 +1,11 @@
 # Window
 
-
-* Win32 API“ü–å
+## Win32 APIå…¥é–€
 http://wisdom.sakura.ne.jp/system/winapi/
 
-* ƒEƒBƒ“ƒhƒE•\¦
-** ƒ}ƒCƒNƒƒ\ƒtƒgŒö®
+## ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦è¡¨ç¤º
+* ãƒã‚¤ã‚¯ãƒ­ã‚½ãƒ•ãƒˆå…¬å¼<br>
 https://docs.microsoft.com/ja-jp/windows/win32/winmsg/window-features
 
-** QlƒTƒCƒg
+* å‚è€ƒã‚µã‚¤ãƒˆ<br>
 http://gameprogrammingunit.web.fc2.com/win/index.html
